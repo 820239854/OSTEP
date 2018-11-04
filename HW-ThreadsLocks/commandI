@@ -1,0 +1,1 @@
+py2 x86.py -p peterson.s -t 2 -a bx=0,bx=1 -R bx,bx -c -i 5
